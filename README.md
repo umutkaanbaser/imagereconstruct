@@ -1,1 +1,1 @@
-# Image Reconstruct Module | 'Image Reconstruct' MÖdülü
+# Image Reconstruct Module | 'Image Reconstruct' Mödülü
